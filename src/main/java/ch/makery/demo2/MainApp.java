@@ -33,7 +33,7 @@ public class MainApp extends Application {
      * Данные, в виде наблюдаемого списка адресатов.
      */
     private ObservableList<Person> personData = FXCollections.observableArrayList();
-
+    //НЕдоделал и не понял 5 номер п
     /**
      * Конструктор
      */
